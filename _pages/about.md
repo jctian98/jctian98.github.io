@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>GHC 6609, CMU Campus</p>
     <p>Pittsburgh, PA, 15213</p>
-    <p>jinchuat@andrew.cmu.edu<p>
+    <p>jinchuat at andrew dot cmu dot edu<p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
