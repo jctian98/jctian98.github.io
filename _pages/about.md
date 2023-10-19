@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Student, focus on Speech Processing
+subtitle: Ph.D. Student, Speech Processing
 
 profile: 
   align: right
